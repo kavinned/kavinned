@@ -23,7 +23,7 @@
 <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" /></a>
 <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
 <a href="https://www.figma.com/community/file/830870404333919494"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" /></a>
-<a href="https://www.motion.dev/docs"></a><img src="./assets/framer.png" height="40" alt="Framer Motion" /></a>
+<a href="https://www.motion.dev/docs"><img src="./assets/framer.png" height="40" alt="Framer Motion" /></a>
 </div>
 </div>
 
