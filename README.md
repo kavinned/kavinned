@@ -27,11 +27,8 @@
 </div>
 </div>
 
-<br>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinned&theme=gotham&show_icons=true&border_radius=24px&count_private=true" alt="kavinned's Stats" width="400" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinned&theme=gotham&border_radius=24px" alt="kavinned's Streak" width="400" />
@@ -40,6 +37,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinned&theme=gotham&show_icons=true&layout=compact&border_radius=24px" alt="kavinned's Top Languages" width="400" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavinned&theme=gotham&show_icons=true&border_radius=24px&count_private=true" alt="kavinned's Stats" width="400" />
+</p>
+
 
 <!--
 **kavinned/kavinned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
