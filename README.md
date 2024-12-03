@@ -30,7 +30,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinned&theme=react&hide_border=true" alt="kavinned's Streak" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinned&theme=react&fire=FF5252&ring=EB7026&hide_border=true" alt="kavinned's Streak" width="400" />
 </p>
 
 <p align="center">
