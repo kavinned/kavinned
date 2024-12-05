@@ -37,9 +37,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinned&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kavinned's Top Languages" width="400" />
 </p>
 
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kavinned&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kavinned's Stats" width="400" />
-</p>
+</p> 
+--!>
 
 
 <!--
