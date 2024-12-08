@@ -12,33 +12,10 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; border: 1px solid rgba(0,0,0,0.2); padding: 20px; border-radius: 10px; width: fit-content; filter: drop-shadow(0 0 10px rgba(0,0,0,0.2)); box-shadow: inset 0 0 10px rgba(0,0,0,0.5);">
-<!-- <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
-<a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /></a>
-<a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /></a>
-<a href="https://expressjs.com/en/starter/installing.html"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" /></a>
-<a href="https://docs.mongodb.com/manual/introduction/"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /></a>
-<a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" /></a>
-<a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
-<a href="https://www.figma.com/community/file/830870404333919494"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" /></a>
-<a href="https://www.motion.dev/docs"><img src="./assets/framer.png" height="40" alt="Framer Motion" /></a> --!>
-  
-<a href="https://react.dev"><img src="https://simpleskill.icons.workers.dev/svg?i=react" /></a>
-<a href="https://nextjs.org/docs"><img src="https://simpleskill.icons.workers.dev/svg?i=nextdotjs" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://simpleskill.icons.workers.dev/svg?i=html5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://simpleskill.icons.workers.dev/svg?i=css3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://simpleskill.icons.workers.dev/svg?i=javascript" /></a>
-<a href="https://nodejs.org/en/docs"><img src="https://simpleskill.icons.workers.dev/svg?i=nodedotjs" /></a>
-<a href="https://expressjs.com"><img src="https://simpleskill.icons.workers.dev/svg?i=express" /></a>
-<a href="https://www.mongodb.com/docs"><img src="https://simpleskill.icons.workers.dev/svg?i=mongodb" /></a>
-<a href="https://tailwindcss.com/docs"><img src="https://simpleskill.icons.workers.dev/svg?i=tailwindcss" /></a>
-<a href="https://git-scm.com/doc"><img src="https://simpleskill.icons.workers.dev/svg?i=git" /></a>
-<a href="https://www.figma.com/resources/learn-design/"><img src="https://simpleskill.icons.workers.dev/svg?i=figma" /></a>
-<a href="https://www.motion.dev/docs"><img src="https://simpleskill.icons.workers.dev/svg?i=framer" /></a>
-<a href="https://redux.js.org"><img src="https://simpleskill.icons.workers.dev/svg?i=redux" /></a>
-<a href="https://reactrouter.com"><img src="https://simpleskill.icons.workers.dev/svg?i=reactrouter" /></a>
+  <a href="#">
+    <img height='40px' src="https://simpleskill.icons.workers.dev/svg?i=react,nextdotjs,html5,css3,javascript,nodedotjs,express,MongoDB,tailwindcss,git,figma,framer,redux,reactrouter" />
+  </a>
+</p>
 </div>
 </div>
 
