@@ -11,11 +11,10 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-<div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; border: 1px solid rgba(0,0,0,0.2); padding: 20px; border-radius: 10px; width: fit-content; filter: drop-shadow(0 0 10px rgba(0,0,0,0.2)); box-shadow: inset 0 0 10px rgba(0,0,0,0.5);">
+<div align="center">
   <a href="#">
     <img src="https://simpleskill.icons.workers.dev/svg?i=react,nextdotjs,html5,css3,javascript,nodedotjs,express,MongoDB,tailwindcss,git,figma,framer,redux,reactrouter,linux&perline=7" />
   </a>
-</p>
 </div>
 </div>
 
@@ -23,7 +22,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavinned&theme=react&fire=FF5252&ring=EB7026&hide_border=true" alt="kavinned's Streak" width="400" />
+  <img src="https://github-readme-streak-stats-432s.vercel.app?user=kavinned&theme=react&fire=FF5252&ring=EB7026&hide_border=true" alt="kavinned's Streak" width="400" />
 </p>
 
 <p align="center">
