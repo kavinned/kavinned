@@ -63,8 +63,8 @@
 <br/>
 
 
-<div align='center'><a href="#"><img src="https://github-readme-streak-stats-432s.vercel.app?user=kavinned&theme=react&hide_border=true" alt="GitHub Streak" /></a></div>
-<div align="center"><a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinned&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kavinned's Top Languages" width='495px'/></a></div>
+<div align='center'><a href="#"><img src="https://github-readme-streak-stats-432s.vercel.app?user=kavinned&theme=react&hide_border=true" alt="GitHub Streak" width='400px'/></a></div>
+<div align="center"><a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinned&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kavinned's Top Languages" width='400px'/></a></div>
 
 
 
