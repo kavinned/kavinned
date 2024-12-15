@@ -52,8 +52,8 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
   </a>
-  <a href="https://www.framer.com/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff" alt="Framer" />
+  <a href="https://motion.dev/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Framer_Motion-F7DF1E?logo=framer&logoColor=000" alt="Framer" />
   </a>
   <a href="https://www.kernel.org/doc/html/latest/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
