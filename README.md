@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer from Singapore</h3>
 
 <h3 align="center">About me:</h3>
-<p align="center" style="text-align: center; font-weight: 500; font-size: 12px">As a software engineer trained at General Assembly's Software Engineering Immersive program in Singapore, I am passionate about developing aesthetic and functional web applications. With a good foundation in HTML, CSS, and React, and a commitment to continuous learning, I strive to create dynamic and responsive websites.
+<p align="center" style="text-align: center; font-weight: 500; font-size: 12px">As a Web Developer trained at General Assembly's Software Engineering Immersive program in Singapore, I am passionate about developing aesthetic and functional web applications. With a good foundation in HTML, CSS, and React, and a commitment to continuous learning, I strive to create dynamic and responsive websites.
 </p>
 <hr/>
 <p align="center">
