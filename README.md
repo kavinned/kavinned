@@ -11,7 +11,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/kavin-nedumaran/" target="blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/kavin-nedumaran/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
