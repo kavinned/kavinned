@@ -6,7 +6,7 @@
 </p>
 <hr/>
 <p align="center">
-🌱 I’m currently learning <a href="https://jestjs.io/docs/getting-started"><img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" alt="jest" /></a>
+🌱 I’m currently learning <a href="https://vitest.dev/guide/"><img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff" alt="vitest" /></a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
