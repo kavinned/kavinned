@@ -38,8 +38,8 @@
 
 
 <div align='center'>
-  <a href="#"><img src="https://github-readme-streak-stats-432s.vercel.app?user=kavinned&theme=react&hide_border=true&fire=EB5454&ring=DB8819" alt="GitHub Streak" height='140px'/></a>
-  <a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinned&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kavinned's Top Languages" height='140px'/></a>
+<!--   <a href="#"><img src="https://github-readme-streak-stats-432s.vercel.app?user=kavinned&theme=react&hide_border=true&fire=EB5454&ring=DB8819" alt="GitHub Streak" height='140px'/></a> -->
+  <a href='#'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinned&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kavinned's Top Languages" height='200px'/></a>
 </div>
 
 
