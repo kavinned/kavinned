@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kavin</h1>
-<h3 align="center">A Web Developer from Singapore</h3>
+<h3 align="center">ICT Student @ SUSS | Web developer from Singapore</h3>
 
 <h3 align="center">About me:</h3>
-<p align="center" style="text-align: center; font-weight: 500; font-size: 12px">As a Web Developer trained at General Assembly's Software Engineering Immersive program in Singapore, I am passionate about developing aesthetic and functional web applications. With a good foundation in HTML, CSS, and React, and a commitment to continuous learning, I strive to create dynamic and responsive websites.
-</p>
+<p align="center" style="text-align: center; font-weight: 500; font-size: 12px">I’m an ICT student at SUSS and a graduate of General Assembly’s Software Engineering Immersive, passionate about crafting performant and visually polished web apps, as well as a commitment to continuous learning to keep leveling up</p>
 <hr/>
 <p align="center">
 🌱 I’m currently learning <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" /></a>
