@@ -6,7 +6,7 @@
 </p>
 <hr/>
 <p align="center">
-🌱 I’m currently learning <a href="https://vitest.dev/guide/"><img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff" alt="vitest" /></a>
+🌱 I’m currently learning <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" /></a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
